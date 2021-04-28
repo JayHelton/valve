@@ -1,0 +1,12 @@
+[package]
+name = "valve"
+version = "0.0.1"
+license = "MIT"
+description = "Coming Soon"
+homepage = "https://github.com/JayHelton/valve"
+documentation = "https://github.com/JayHelton/valve"
+readme = "README.md"
+authors = ["jayhelton <jaydhelton@gmail.com>"]
+edition = "2018"
+
+[dependencies]
